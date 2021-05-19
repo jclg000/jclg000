@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jclg000
-- 👀 I’m interested in using github more often
+- 👀 I’m interested in github 
 - 🌱 I’m currently learning SQL, Postgresql, HTML, CCS and Dart
 - 💞️ I’m looking to collaborate on sales analysis projects
 - 📫 How to reach me jclg.unet@gmail.com
